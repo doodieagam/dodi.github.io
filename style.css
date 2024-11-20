@@ -689,7 +689,7 @@ h1 {
 
 
 
-@media(max-width: 767px){
+@media(max-width: 390px){
     .banner video{
       bottom: 70%;
     }
