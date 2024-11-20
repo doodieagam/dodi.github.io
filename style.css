@@ -893,4 +893,10 @@ h1 {
       padding: 15px 30px;
       font-size: 0.5rem;
     }
+    .map-container {
+      margin-top: 570px;
+      margin-bottom: 100px;
+      width: 350px; 
+      height: 250px; 
+    }
   }
