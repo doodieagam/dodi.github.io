@@ -839,14 +839,11 @@ h1 {
   }
 
   @media(max-width: 390px){
-    .ss{
-      background-color: #0080ff;
-    }
     .video-container video {
-      width: 350px; 
+      width: 300px; 
     }
     .photo-container img {
-      width: 300px; 
+      width: 250px; 
     }
   }
 
