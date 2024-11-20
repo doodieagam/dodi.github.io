@@ -838,7 +838,7 @@ h1 {
     }
   }
 
- @media(max-width: 430px){
+  @media(max-width: 430px){
     .ttl{
       height: 80px;
       margin: 70px;
@@ -847,7 +847,7 @@ h1 {
       width: 320px; 
     }
     .photo-container img {
-      width: 370px; 
+      width: 360px; 
     }
     .service-item {
       flex: calc(50% - 50px); 
@@ -881,5 +881,16 @@ h1 {
       margin-bottom: 10px;
       margin-top: 100px;
     }
+    .service-description {
+      font-size: 0.8em;
+      color: #ffffff;
+    }
+    .service-box-1 {
+      padding: 30px;
+      background-color: #07a7ec;
+    }
+    .order-button {
+      padding: 15px 30px;
+      font-size: 0.5rem;
+    }
   }
-
